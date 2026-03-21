@@ -1,5 +1,5 @@
 
-  # 플렉서스랩홈페이지
+  # Plexuslab.kr
 
   This is a code bundle for PlexusLab Website. The original project is from Figma Make
 
