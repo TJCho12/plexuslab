@@ -16,7 +16,7 @@ const WhatWeDoSection: React.FC = () => {
       description: "Driving cross-border growth through reverse e-commerce and strategic market entry into Japan and beyond.",
     },
     {
-      title: "Clinic Partnership ",
+      title: "Dermatology Partnership ",
       description: "Partnering with Korea's leading dermatology clinics to co-develop and distribute trusted skincare solutions.",
     },
   ];
@@ -67,7 +67,7 @@ const WhatWeDoSection: React.FC = () => {
               fontWeight: "400",
               lineHeight: "1.6",
             }}
-          >We build skincare brands that translate Korea's medical beauty culture into products the world wants to use.</p>
+          >We build premium skincare brands that translate Korea's medical beauty culture into products the world wants.</p>
         </div>
         
         <div className="grid md:grid-cols-2 gap-8">

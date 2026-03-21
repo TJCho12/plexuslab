@@ -4,15 +4,15 @@ import { motion } from "motion/react";
 const PortfoliosSection: React.FC = () => {
   const portfolioItems = [
     {
-      title: "Dermatology Clinics",
-      category: "Skin Clinic",
+      title: "Secret Clinic",
+      category: "Dermatology",
       description: "A premium K-beauty skin clinic for global patients",
       url: "https://mysecretclinic.com/",
     },
     {
-      title: "Equation",
+      title: "Equation(Coming Soon)",
       category: "Cosmetics",
-      description: "From clinic to your home — experience professional post-treatment skincare.",
+      description: "Your K-dermatology experience, continued at home.",
       url: null,
     }
   ];

@@ -17,15 +17,15 @@ const NewsSection: React.FC = () => {
       title: "Plexus Lab. 공식 웹사이트",
       date: "2025-11-05",
       category: "Company News",
-      preview: "Plexus Lab의 공식 웹사이트가 오픈했습니다. K-Beauty의 혁신적인 솔루션과 독보적인 브랜드 가치를 제공합니다.",
+      preview: "Plexus Lab의 공식 웹사이트가 오픈했습니다.",
     },
-    // {
-    //   id: 2,
-    //   title: "시크릿 의원 파트너십 체결",
-    //   date: "2025-11-24",
-    //   category: "Partnership",
-    //   preview: "글로벌 환자를 위한 프리미엄 K-뷰티 스킨 클리닉 시크릿 의원과 파트너십을 체결했습니다.",
-    // },
+    {
+      id: 2,
+      title: "시크릿 의원 파트너십 체결",
+      date: "2025-12-01",
+      category: "Partnership",
+      preview: "글로벌 환자를 위한 프리미엄 K-뷰티 스킨 클리닉 시크릿 의원과 파트너십을 체결했습니다.",
+    },
   ];
 
   return (
@@ -74,9 +74,9 @@ const NewsSection: React.FC = () => {
               fontWeight: "400",
               lineHeight: "1.6",
             }}
-          >
-            Plexus Lab의 최신 소식과 공지사항을 확인하세요
-          </p>
+          >Plexus Lab의 최신 소식과 공지사항을 확인하세요. 
+            <br /> Stay updated with the latest news and announcements from Plexus Lab.
+</p>
         </div>
         
         <div className="space-y-6">
