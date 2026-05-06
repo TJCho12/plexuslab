@@ -10,7 +10,7 @@ const PortfoliosSection: React.FC = () => {
       url: "https://mysecretclinic.com/",
     },
     {
-      title: "Equation(Coming Soon)",
+      title: "enTX(Coming Soon)",
       category: "Cosmetics",
       description: "Your K-dermatology experience, continued at home.",
       url: null,
